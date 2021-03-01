@@ -3,7 +3,7 @@ import os
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-SECRET_KEY = '&xbgwn31ctwb96!t_9_p(_+ll*@&nql&ss$b47e(q5)%rr=!p@'
+SECRET_KEY = 'secret'
 
 DEBUG = True
 
