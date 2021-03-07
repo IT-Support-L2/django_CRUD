@@ -1,2 +1,5 @@
 # Django_CRUD_Project
-Django CRUD project
+Django CRUD project:  Create Read Update Delete
+
+
+
